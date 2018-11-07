@@ -1,0 +1,44 @@
+body{
+    background-color: gray;
+}
+
+.game-img {
+    width:500px;
+}
+
+body{
+    background-image: url("http://images6.fanpop.com/image/photos/38300000/Yharnam-Bloodborne-video-games-38310556-1920-1080.jpg");
+}
+a{
+    color:purple;  
+}
+h1{
+    font-family:Pacifico;
+}
+h2{
+    font-family:Pacifico;
+}
+h3{
+    font-family:Pacifico;
+}
+h4{
+    font-family:Pacifico;
+}
+.white{
+    color:white;
+}
+.blue{
+    color:#280DD8;
+}
+.yellow{
+    color:yellow;
+}
+.dark{
+    color:#432727;
+}
+p{
+    font-family:Roboto;
+}
+p{
+    color:white;
+}
